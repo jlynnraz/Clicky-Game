@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Sexy Lady",
+      "image": "https://i.imgur.com/KBZYWe9.jpg",
+      "clicked": false
+      
+    },
+    {
+      "id": 2,
+      "name": "Cover Squirrel",
+      "image": "http://cdn.webfail.com/upl/img/aea67f11b4a/post2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Lipstick Dog",
+      "image": "https://www.doozylist.com/wp-content/uploads/2017/10/20-Very-Funny-Animal-Memes-8.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Rabies Racoon",
+      "image": "https://images.complex.com/complex/image/upload/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/dhpx78hdhz6gjpr4brfe.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Crocs",
+      "image": "https://www.lifewire.com/thmb/Ffe8cUgXEMbuZt4z9ysyvqzbIAY=/1600x1200/filters:no_upscale():max_bytes(150000):strip_icc()/animalmemes14-5ae229b4ae9ab80037197fef.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "You're Home Early",
+      "image": "https://imgix.ranker.com/user_node_img/50041/1000806776/original/o-photo-u1?w=650&q=50&fm=pjpg&fit=crop&crop=faces",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Little Husky",
+      "image": "https://www.rd.com/wp-content/uploads/2019/04/02-Hilarious-Dog-Memes.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Bag of chips",
+      "image": "https://www.mrmemel.com/wp-content/uploads/chips-meme.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Snowman",
+      "image": "https://i.pinimg.com/originals/66/7b/4d/667b4d8950228c2038d855c0c8f35385.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Become the Squirrel",
+      "image": "https://img.women.com/images/images/000/095/173/large/Animal_Meme_2.jpg?1494560539",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Hampster",
+      "image": "http://www.feedzig.com/wp-content/uploads/2015/09/image-29.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Turn Around Squirrel",
+      "image": "https://i.pinimg.com/originals/02/9d/e2/029de20cd314ee412774edf1ceca0c78.jpg",
+      "clicked": false
+    }
+  ]
