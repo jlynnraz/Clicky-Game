@@ -1,5 +1,10 @@
-<h2>Try to click all the memes without clicking the same meme twice!</h2>
+<h2>Clicky Game</h2><br>
+<p>A fun, tricky meme game designed to test your memory. Try to click all the memes without clicking the same meme twice!</p>
 
+<h2>Motivation</h2><br>
+<p>Clicky Game was created to test my skills in React: specifically managing component state, and responding to user events.</p>
+  
+<h2>Sneak Peak</h2><br>
 <img src="https://images-na.ssl-images-amazon.com/images/I/71waNyxyiVL.jpg" data-canonical-src="https://images-na.ssl-images-amazon.com/images/I/71waNyxyiVL.jpg" width="200" height="270" />
 
 Technologies used:
