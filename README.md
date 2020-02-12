@@ -5,7 +5,7 @@
 <p>Clicky Game was created to test my skills in React: specifically managing component state, and responding to user events.</p>
   
 <h2>Sneak Peak</h2><br>
-![clicky](https://github.com/jlynnraz/Clicky-Game/blob/master/Images/screenshot.jpg?raw=true)
+![screenshot](https://github.com/jlynnraz/Clicky-Game/blob/master/Images/screenshot.jpg?raw=true)
 
 <h2>Technologies</h2>
 React.js
