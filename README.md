@@ -8,5 +8,10 @@
 
 ![screenshot](https://github.com/jlynnraz/Clicky-Game/blob/master/Images/screenshot.jpg?raw=true)
 
+## Installation
+* Fork It
+* Clone It
+* Run NPM Install
+
 <h2>Technologies</h2>
 React.js
