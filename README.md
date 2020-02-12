@@ -1,4 +1,4 @@
-<h2>Clicky Game</h2><br>
+## Clicky Game
 <p>A fun, tricky meme game designed to test your memory. Try to click all the memes without clicking the same meme twice!</p>
 
 <h2>Motivation</h2><br>
